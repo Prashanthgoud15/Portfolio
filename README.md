@@ -13,7 +13,7 @@ This site showcases my journey as a developer — including my skills, education
 - Web3Forms (for Contact Form)
 
 ## 🌐 Live Demo
-👉 [View Portfolio](https://Prashanthgoud15.github.io/gprashanth-portfolio/)
+👉 [View Portfolio](https://portfolio-sigma-lime-83.vercel.app/)
 
 ## 📸 Features
 - Typing text animation
